@@ -4,13 +4,14 @@
 
 💻 Eu sou um desenvolvedor Back-End | Bioinformata | MSc. Microbiology
 
-🎓 Eu estudo [Data Science na Prática](https://escola.sigmoidal.ai/data-science-na-pratica/) @ [Sigmoidal](https://escola.sigmoidal.ai/)| [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) @ [ [Cubos Academy](https://cubos.academy/) 
+🎓 Eu estudo [Data Science na Prática](https://escola.sigmoidal.ai/data-science-na-pratica/) @ [Sigmoidal](https://escola.sigmoidal.ai/) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) @ [ [Cubos Academy](https://cubos.academy/) 
 
 🔎 Também sou curioso sobre Bioinformática | Data Science | Ciência | Filosofia e Literatura Clássica
 
 ✒️ Eu gosto de no meu tempo livre treinar na academia ou muaythai, ler literatura clássica e assistir Rugby
 
 📚 Lendo: "12 regras para a vida" - Dr. Jordan B. Peterson | "O que a filosofia não é" - André Assi Barreto
+
 
 ### Eu já trabalhei com... 🔧
 
