@@ -67,7 +67,7 @@
 ### GitHub Stats ⚡
 <div>
 <a href="https://github.com/andreluiz901">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiz901&layout=compact&langs_count=7&theme=dracula&hide=jupyter-notebook"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiz901&layout=compact&langs_count=7&theme=dracula&hide=jupyter-notebook&exclude_repo=bioinfo_datascience_and_analysis"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluiz901&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
