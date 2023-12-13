@@ -10,6 +10,7 @@
 
 📚 Lendo: "12 regras para a vida" - Dr. Jordan B. Peterson | "O que a filosofia não é" - André Assi Barreto
 
+👨‍💻 Projeto pessoal que estou desenvolvendo atualmente: [My App - Rede Social de Mensagens Curtas](https://my-blog-hgv5.vercel.app)
 
 ### Eu já trabalhei com... 🔧
 
