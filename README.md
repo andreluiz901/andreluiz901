@@ -1,16 +1,19 @@
-# Oi, me chamo  André Luiz 👋
+# Olá, me chamo  André Luiz ![aceno](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size20&center=false&vCenter=false&width=1000&lines=Backend+developer;Bioinformata;MSc.+Microbiologia+-+USP;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Back-End | Bioinformata | MSc. Microbiology
-
-🔎 Também sou curioso sobre Bioinformática | Data Science | Ciência | Filosofia e Literatura Clássica
-
-✒️ Eu gosto de no meu tempo livre treinar na academia ou muaythai, ler e assistir Rugby
-
-📚 Lendo: "12 regras para a vida" - Dr. Jordan B. Peterson | "O que a filosofia não é" - André Assi Barreto
-
-👨‍💻 Projeto pessoal que estou desenvolvendo atualmente: [My App - Rede Social de Mensagens Curtas](https://my-blog-hgv5.vercel.app)
+* 💻 Eu sou um desenvolvedor Back-End | Bioinformata | MSc. Microbiology
+* 🌍  Estou localizado atualmente em São Paulo, Brasil
+* 🖥️  Veja meu portfolio [aqui](http://andreluiz901.github.io)
+* 👨‍💻 Projeto pessoal que estou desenvolvendo atualmente: [My App - Rede Social de Mensagens Curtas](https://my-blog-hgv5.vercel.app)
+* 🔎 Também sou curioso sobre Bioinformática | Data Science | Ciência | Filosofia e Literatura Clássica
+* ✒️ Eu gosto de no meu tempo livre treinar na academia ou muaythai, ler e assistir Rugby
+* 📚 Lendo: "12 regras para a vida" - Dr. Jordan B. Peterson | "O que a filosofia não é" - André Assi Barreto
+* 🤝  Estou aberto para colaborar com quaisquer projetos interessantes, entrem em contato comigo.
+  
+<a href="https://www.github.com/andreluiz901" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Eu já trabalhei com... 🔧
 
@@ -63,16 +66,17 @@
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 
 ### GitHub Stats ⚡
-<div>
+<div align=center>
 <a href="https://github.com/andreluiz901">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiz901&layout=compact&langs_count=7&theme=dracula&hide=jupyter-notebook&exclude_repo=bioinfo_datascience_and_analysis"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluiz901&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andreluiz901&area=false&custom_title=My%20Github%20Contributions&title_color=ff6e96&color=f8f8f2&bg_color=282a36&area_color=282a36&point=ff6e96)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 </div>
 
 ### Entre em contato comigo! 📭
-<div>
-<a href="https://instagram.com/andre.luiz.silva_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andreluiz3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.researchgate.net/profile/Andre-Luiz-De-Araujo-Silva" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" target="_blank"></a>
-<a href="https://medium.com/@silva.ala82" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-</div>
+* ✉️  Entre em contato comigo por [email](mailto:silva.ala82@gmail.com) ou pelas minhas redes sociais:
+<div align=center>
+  <a href="https://www.linkedin.com/in/andreluiz3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@silva.ala82" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a></div>
+
