@@ -14,6 +14,7 @@
   
 <a href="https://www.github.com/andreluiz901" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![Profile Viewers Komrev](https://komarev.com/ghpvc/?username=andreluiz901&style=for-the-badge)
 
 ### Eu já trabalhei com... 🔧
 
