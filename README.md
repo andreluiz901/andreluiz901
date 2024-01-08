@@ -16,7 +16,15 @@
 src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ![Profile Viewers Komrev](https://komarev.com/ghpvc/?username=andreluiz901&style=for-the-badge)
 
-### Eu já trabalhei com... 🔧
+### Principais Stacks
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,html,css,js,vitest,postgres,prisma,ts,nodejs,vscode,express, vitest" />
+  </a>
+</p>
+
+### Eu também já trabalhei com... 🔧
 
 **Linguagens**
 
@@ -46,6 +54,7 @@ src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white)
 
 **Tecnologias e Ferramentas**
 
