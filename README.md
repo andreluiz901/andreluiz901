@@ -1,5 +1,5 @@
-# Olá, me chamo  André Luiz ![aceno](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size20&center=false&vCenter=false&width=1000&lines=Backend+developer;Bioinformata;MSc.+Microbiologia+-+USP;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+# Olá, me chamo  André Luiz ![aceno](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size20&center=false&vCenter=false&width=1000&lines=Backend+developer;Bioinformata;MSc.+Microbiologia+-+USP;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
 ### Sobre mim
 
@@ -89,4 +89,15 @@ src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-
 <div align=center>
   <a href="https://www.linkedin.com/in/andreluiz3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@silva.ala82" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a></div>
+
+#
+<div align='right'><em>D.J.</em></div>
+<div align='right'><em>S.D.G</em></div>
+
+
+
+
+
+
+
 
