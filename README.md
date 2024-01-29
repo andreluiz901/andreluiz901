@@ -86,7 +86,7 @@ src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-
 </div>
 
 ### Entre em contato comigo! 📭
-* ✉️  Entre em contato comigo por [email](mailto:silva.ala82@gmail.com) ou pelas minhas redes sociais:
+* ✉️  Entre em contato comigo por [email](mailto:andreluizsilva.dev@gmail.com) ou pelas minhas redes sociais:
 <div align=center>
   <a href="https://www.linkedin.com/in/andreluiz3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@silva.ala82" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a></div>
