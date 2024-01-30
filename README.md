@@ -7,7 +7,7 @@
 * 🌍  Estou localizado atualmente em São Paulo, Brasil
 * 🖥️  Veja meu portfolio [aqui](http://andreluiz901.github.io)
 * 👨‍💻 Projeto pessoal que estou desenvolvendo atualmente: [My App - Rede Social de Mensagens Curtas](https://my-blog-hgv5.vercel.app)
-* 🔎 Também sou curioso sobre Bioinformática | Data Science | Ciência | Filosofia e Literatura Clássica
+* 🔎 Também sou curioso sobre Bioinformática | Data Science | ciberssegurança | Ciência | Filosofia e Literatura Clássica
 * ✒️ Eu gosto de no meu tempo livre treinar na academia ou muaythai, ler e assistir Rugby
 * 📚 Lendo: "12 regras para a vida" - Dr. Jordan B. Peterson | "O que a filosofia não é" - André Assi Barreto
 * 🤝  Estou aberto para colaborar com quaisquer projetos interessantes, entrem em contato comigo.
