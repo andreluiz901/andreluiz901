@@ -77,12 +77,11 @@ src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat)
 
 ### GitHub Stats ⚡
-<div align=center>
+<div>
 <a href="https://github.com/andreluiz901">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiz901&layout=compact&langs_count=7&theme=dracula&hide=jupyter-notebook&exclude_repo=bioinfo_datascience_and_analysis"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreluiz901&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andreluiz901&area=false&custom_title=My%20Github%20Contributions&title_color=ff6e96&color=f8f8f2&bg_color=282a36&area_color=282a36&point=ff6e96)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-</div> -->
+  
+</div>
 
 ### Entre em contato comigo! 📭
 * ✉️  Entre em contato comigo por [email](mailto:andreluizsilva.dev@gmail.com) ou pelas minhas redes sociais:
