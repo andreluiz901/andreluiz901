@@ -1,15 +1,15 @@
 # Olá, me chamo  André Luiz ![aceno](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size20&center=false&vCenter=false&width=1000&lines=Backend+developer;Bioinformata;MSc.+Microbiologia+-+USP;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size20&center=false&vCenter=false&width=1000&lines=Fullstack+developer;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
 
 ### Sobre mim
 
-* 💻 Eu sou um desenvolvedor Back-End | Bioinformata | MSc. Microbiology
+* 💻 Eu sou um desenvolvedor Fullstack | Bioinformata | MSc. Microbiology
 * 🌍  Estou localizado atualmente em São Paulo, Brasil
 * 🖥️  Veja meu portfolio [aqui](http://andreluiz901.github.io)
 * 👨‍💻 Projeto pessoal que estou desenvolvendo atualmente: [My App - Rede Social de Mensagens Curtas](https://my-blog-hgv5.vercel.app)
-* 🔎 Também sou curioso sobre Bioinformática | Data Science | ciberssegurança | Ciência | Filosofia e Literatura Clássica
+* 🔎 Também sou curioso sobre Ciberssegurança | Data Science | Bioinformática | Filosofia e Literatura Clássica
 * ✒️ Eu gosto de no meu tempo livre treinar na academia ou muaythai, ler e assistir Rugby
-* 📚 Lendo: "12 regras para a vida" - Dr. Jordan B. Peterson | "O que a filosofia não é" - André Assi Barreto
+* 📚 Lendo: "Hamlet" - relendo o origianl para treinar gramática inglesa
 * 🤝  Estou aberto para colaborar com quaisquer projetos interessantes, entrem em contato comigo.
   
 <a href="https://www.github.com/andreluiz901" target="_blank" rel="noreferrer"><img
@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,html,css,js,vitest,postgres,prisma,ts,nodejs,vscode,express, vitest" />
+    <img src="https://skillicons.dev/icons?i=react,next,docker,html,css,js,vitest,postgres,prisma,ts,nodejs,vscode,express" />
   </a>
 </p>
 
@@ -77,11 +77,14 @@ src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-
 ![Jest Badge](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat)
 
 ### GitHub Stats ⚡
-<div>
-<a href="https://github.com/andreluiz901">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiz901&layout=compact&langs_count=7&theme=dracula&hide=jupyter-notebook&exclude_repo=bioinfo_datascience_and_analysis"/>
-  
+<div style="flex: 1; max-width: 45%;">
+        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="./github-metrics.svg">
 </div>
+<div style= "flex: 1">
+  <a href="https://github.com/andreluiz901">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiz901&layout=compact&langs_count=7&theme=dracula&hide=jupyter-notebook&exclude_repo=bioinfo_datascience_and_analysis"/>
+</div>
+
 
 ### Entre em contato comigo! 📭
 * ✉️  Entre em contato comigo por [email](mailto:andreluizsilva.dev@gmail.com) ou pelas minhas redes sociais:
@@ -92,11 +95,3 @@ src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-
 #
 <div align='right'><em>D.J.</em></div>
 <div align='right'><em>S.D.G</em></div>
-
-
-
-
-
-
-
-
