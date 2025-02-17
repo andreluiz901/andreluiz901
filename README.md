@@ -4,17 +4,25 @@
 ### Sobre mim
 
 * 💻 Eu sou um desenvolvedor Fullstack | Bioinformata | MSc. Microbiology
-* 🌍  Estou localizado atualmente em São Paulo, Brasil
-* 🖥️  Veja meu portfolio [aqui](http://andreluiz901.github.io)
-* 👨‍💻 Projeto pessoal que estou desenvolvendo atualmente: [My App - Rede Social de Mensagens Curtas](https://my-blog-hgv5.vercel.app)
+* 🌍  Estou localizado atualmente em: Juazeiro do Norte - CE | São Paulo - SP, Brasil
 * 🔎 Também sou curioso sobre Ciberssegurança | Data Science | Bioinformática | Filosofia e Literatura Clássica
 * ✒️ Eu gosto de no meu tempo livre treinar na academia ou muaythai, ler e assistir Rugby
 * 📚 Lendo: "Hamlet" - relendo o origianl para treinar gramática inglesa
 * 🤝  Estou aberto para colaborar com quaisquer projetos interessantes, entrem em contato comigo.
+<!-- 
+* 🖥️  Veja meu portfolio [aqui](http://andreluiz901.github.io)
+* 👨‍💻 Projeto pessoal que estou desenvolvendo atualmente: [My App - Rede Social de Mensagens Curtas](https://my-blog-hgv5.vercel.app)
+-->
   
 <a href="https://www.github.com/andreluiz901" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ![Profile Viewers Komrev](https://komarev.com/ghpvc/?username=andreluiz901&style=for-the-badge)
+
+### Premiações e Participações em Eventos
+
+* Hack in Cariri - 2024 - <b>1° Lugar - Capture the Flag (CTF)</b>
+* H2HC / Menina de Cybersec - 2024 - <b>1° Lugar - Mini Capture the Flag (CTF) Linear</b>
+* Hack in Cariri - 2025 - <b>2° Lugar - Capture the Flag (CTF)</b>
 
 ### Principais Stacks
 
