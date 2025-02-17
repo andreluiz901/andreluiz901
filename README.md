@@ -1,6 +1,8 @@
 # Olá, me chamo  André Luiz ![aceno](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size20&center=false&vCenter=false&width=1000&lines=Fullstack+developer;Bem+Vindo!+:%29)](https://git.io/typing-svg) 
-
+<a href="https://www.github.com/andreluiz901" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![Profile Viewers Komrev](https://komarev.com/ghpvc/?username=andreluiz901&style=for-the-badge)
 ### Sobre mim
 
 * 💻 Eu sou um desenvolvedor Fullstack | Bioinformata | MSc. Microbiology
@@ -13,10 +15,6 @@
 * 🖥️  Veja meu portfolio [aqui](http://andreluiz901.github.io)
 * 👨‍💻 Projeto pessoal que estou desenvolvendo atualmente: [My App - Rede Social de Mensagens Curtas](https://my-blog-hgv5.vercel.app)
 -->
-  
-<a href="https://www.github.com/andreluiz901" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-![Profile Viewers Komrev](https://komarev.com/ghpvc/?username=andreluiz901&style=for-the-badge)
 
 ### Premiações e Participações em Eventos
 
