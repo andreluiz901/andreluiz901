@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/andreluiz901?logo=github&style=for-
 * 🤝  Estou aberto para colaborar com quaisquer projetos interessantes, entrem em contato comigo.
 <!-- 
 * 🖥️  Veja meu portfolio [aqui](http://andreluiz901.github.io)
-* 👨‍💻 Projeto pessoal que estou desenvolvendo atualmente: [My App - Rede Social de Mensagens Curtas](https://my-blog-hgv5.vercel.app)
+* 👨‍💻 Projeto pessoal que estou desenvolvendo atualmente: Em breve.
 -->
 
 ### Premiações e Participações em Eventos
